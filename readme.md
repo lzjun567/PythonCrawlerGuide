@@ -3,7 +3,7 @@
 「Python爬虫学习+面试指南」一份涵盖大部分Python爬虫工程师所需要掌握的核心知识。
 
 
-![python爬虫](./python爬虫.png)
+![python爬虫](https://foofish.net/images/python%E7%88%AC%E8%99%AB.png)
 
 
 # 目录 （善用Ctrl+F）
