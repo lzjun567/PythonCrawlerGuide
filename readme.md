@@ -11,9 +11,9 @@
 内容会持续更新，敬请关注
 
 
-
 - Python核心基础
-
+    - [python内置模块urllib介绍](https://foofish.net/python-urllib.html)
+    - [Python 处理 HTML 转义字符的5种方式](https://foofish.net/pycon-html-escape.html)
     - [Python 中的字符编码为什么那么蛋疼？](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650366836&idx=1&sn=da43cd0208b6bb7b1c51c5ced3ac1027&chksm=be9cd82089eb5136830ba25a54ae57a5fc1ca105b68718fcf4d9f100ddb1ea18120990c47816#rd)
     - [Python3中，是如何解决棘手的字符编码问题的？](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650366846&idx=1&sn=ff9f9f4b7bf8a59afa39b60707ed35c9&chksm=be9cd82a89eb513cc96630c2f1072519d85f474a9f1028749150306110d539cb0dba410b5859#rd)
     - [字符编码的前世今生](https://foofish.net/python-character-encode.html)
