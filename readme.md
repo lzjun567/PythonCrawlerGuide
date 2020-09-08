@@ -17,7 +17,9 @@
     - [Python 中的字符编码为什么那么蛋疼？](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650366836&idx=1&sn=da43cd0208b6bb7b1c51c5ced3ac1027&chksm=be9cd82089eb5136830ba25a54ae57a5fc1ca105b68718fcf4d9f100ddb1ea18120990c47816#rd)
     - [Python3中，是如何解决棘手的字符编码问题的？](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650366846&idx=1&sn=ff9f9f4b7bf8a59afa39b60707ed35c9&chksm=be9cd82a89eb513cc96630c2f1072519d85f474a9f1028749150306110d539cb0dba410b5859#rd)
     - [字符编码的前世今生](https://foofish.net/python-character-encode.html)
-    - []
+    - [正则表达式完全指南（上）](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650366958&idx=1&sn=044008c9475421feddf428c6ce5bf481&chksm=be9cd8ba89eb51acd8404bda5c2f5db660bf730919664d811a3487ae6b4e49760df67bd5736a#rd)
+    - [正则表达式完全指南（下）](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650366967&idx=2&sn=a5756059ba031e5c1407587987dbd3ba&chksm=be9cd8a389eb51b5d597c182cf2e6e361408832ea749cde8dad2b7892c978c6aa303286e60dc#rd)
+    - [python正则表达式的5个小贴士](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650367680&idx=1&sn=2e8ef8bcf4dc176c46376508cb5a8fa7&chksm=be9cdd9489eb54822dc5993ff71050ca9011aff07fdf642b3eccdee7e20dc2efad9f21fb1a63#rd)
 
 - HTTP协议
 
@@ -55,6 +57,7 @@
 - 分词工具
 
     - [结巴分词快速入门指南](https://foofish.net/jieba.html)
+    - [pkuseg：一个多领域中文分词工具包 ](https://github.com/lancopku/pkuseg-python)
 
 - 分布式爬虫
 
@@ -62,3 +65,6 @@
     - [为什么说Python多线程是鸡肋？](https://foofish.net/thread.html)
     - python多线程真的很鸡肋吗？
 
+- 日常工具
+
+    - [git简明教程，木有高深内容](https://rogerdudler.github.io/git-guide/index.zh.html)
